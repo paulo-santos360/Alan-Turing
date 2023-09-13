@@ -30,10 +30,6 @@ Você pode experimentar o projeto ao vivo [aqui](https://paulo-santos360.github.
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, relatar problemas ou colaborar para melhorar este projeto.
 
-## 👤 Autor
-
-Este projeto foi desenvolvido por [Seu Nome](inserir-link-do-perfil-do-autor), entre em contato caso tenha alguma dúvida ou sugestão.
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](MIT) para obter detalhes.
